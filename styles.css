@@ -1,0 +1,109 @@
+     body {
+            background-image: url('bgvocaloid.png'); 
+            background-repeat: no-repeat; 
+            background-size: cover; 
+            background-position: center;
+            background-attachment : fixed;  
+            height: 100vh; 
+        }
+     table{
+            display: inline-block;
+            border: 1px solid black;
+        }
+
+     .container{
+            text-align: center;
+            background-color:
+        }
+     .right{
+            float:right;
+            margin-left:50px;
+            margin-right:100px;
+            margin-bottom:20px;
+        }
+     .left{
+           float:left;
+           margin-right:50px;
+           margin-left:100px;
+           margin-bottom:20px;
+        }
+     .textbox{
+            background-color:#0f100f;
+            padding:10px;
+            float:top;
+            margin:20px 100px 20px 100px;
+            text-align:center;
+        }
+      .pic_box{
+            width="120"
+            height="240"
+        }
+      .shape1 {
+            position: absolute;
+            top: 57cm;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+            width: 300px;
+            height: 150px;
+            background-image:url('Characters1.jpg');
+            display: flex;
+            text-align:center;
+            justify-content: center;
+            align-items: center;
+            font-weight:bold;
+            transition: transform 0.3s ease, font-size 0.3s ease;
+            text-decoration: none;
+            color:white;
+        }
+       .shape2 {
+            position: absolute;
+            top: 63cm;
+            bottom: 0;
+            left: 0;
+            right: 13cm;
+            margin: auto;
+            width: 300px;
+            height: 150px;
+            background-image:url('producers1.jpg');
+            display: flex;
+            text-align:center;
+            justify-content: center;
+            align-items: center;
+            font-weight:bold;
+            transition: transform 0.3s ease, font-size 0.3s ease;
+            text-decoration: none;
+            color:white;
+        }
+       .shape3 {
+            position: absolute;
+            top: 63cm;
+            bottom: 0;
+            left: 13cm;
+            right: 0;
+            margin: auto;
+            width: 300px;
+            height: 150px;
+            background-image:url('mikupa2.jpg');
+            display: flex;
+            text-align:center;
+            justify-content: center;
+            align-items: center;
+            font-weight:bold;
+            transition: transform 0.3s ease, font-size 0.3s ease;
+            text-decoration: none;
+            color:white;
+        }
+
+    
+     p.normal{color:#d9d9d9;font-family: Gill Sans;font-size:18pt;margin-right:100px;margin-left:100px;margin-top:20px;text-align:justify}
+
+     p.title{color:#FFFFFF;font-family:Gill Sans;font-weight:bold;font-size:25pt;margin-right:100px;margin-left:100px;text-align:center;background-color:#0f100f}
+
+     p.sub_title{color:#baf0c3;text-decoration:underline;font-family:Arial;font-size:25pt;margin-right:100px;margin-left:100px}
+
+     p.link{color:#3366CC;font-family: Gill Sans;font-size:15pt}
+
+     p.name{color:#e6a3a3;text-decoration:underline;font-family: Gill Sans;font-size:18pt;margin-right:100px;margin-left:100px;margin-top:20px}
+  
